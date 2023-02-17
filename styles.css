@@ -12,7 +12,6 @@ body {
   width: 100%;
 }
 
-@media screen and (max-width: 375px) {
   .project-btn:hover,
   .multi-btn:hover {
     background: #fff5e1;
@@ -140,4 +139,4 @@ body {
     color: #fff;
     line-height: 24px;
   }
-}
+
