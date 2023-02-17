@@ -103,10 +103,10 @@ Clone this repository to your desired folder:
   
   
   
-  Prerequisites:
+  ### Prerequisites:
   
  
-In order to run this project you need to hava vscode:
+   In order to run this project you need to have vscode:
 
 
 <!--
