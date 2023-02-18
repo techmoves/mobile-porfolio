@@ -93,10 +93,6 @@ After you're finished please remove all the comments and instructions!
 
 
 
-### Setup
-
-Clone this repository to your desired folder:
-
 <!--
 Example commands:
 
