@@ -93,24 +93,10 @@ After you're finished please remove all the comments and instructions!
 
 
 
-### Setup
-
-Clone this repository to your desired folder: 
-
-  cd my-folder
-  git clone git@github.com:techmoves/mob-porfoliot.git
-  
-  
-  
-  
-  ### Prerequisites:
-  
- 
-   In order to run this project you need to have vscode:
 
 
 <!--
-Example commands:
+
 
 ```sh
   cd my-folder
