@@ -58,11 +58,6 @@ After you're finished please remove all the comments and instructions!
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
-
-
-
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Mobile 1st Portflio <a name="about-project"></a>
@@ -93,10 +88,12 @@ After you're finished please remove all the comments and instructions!
 
 
 
+### Setup
 
+Clone this repository to your desired folder:
 
 <!--
-
+Example commands:
 
 ```sh
   cd my-folder
