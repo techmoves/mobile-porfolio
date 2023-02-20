@@ -106,16 +106,6 @@ After you're finished please remove all the comments and instructions!
 
 
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-
-
-- **[adding Responsive]**
-- **[adding animations]**
-- **[adding validation]**
-
 
 
 
@@ -128,6 +118,21 @@ After you're finished please remove all the comments and instructions!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+
+- **adding Responsive**
+- **adding animations**
+- **adding validation**
 
 <!-- CONTRIBUTING -->
 
