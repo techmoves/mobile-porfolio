@@ -97,7 +97,6 @@ After you're finished please remove all the comments and instructions!
 ```
 --->
 
-### Feature
 
 
 <!-- AUTHORS -->
@@ -125,6 +124,8 @@ After you're finished please remove all the comments and instructions!
 
 
 <!-- Features -->
+
+### Feature
 
 ### Key Features <a name="key-features"></a>
 
