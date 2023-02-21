@@ -25,10 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+
 
   <h3><b>Mobile portfolio</b></h3>
 
@@ -94,10 +91,6 @@ After you're finished please remove all the comments and instructions!
 
 
 
-
-<!--
-
-
 ```sh
   cd my-folder
   git clone git@github.com:techmoves/mob-porfoliot.git
@@ -112,6 +105,9 @@ After you're finished please remove all the comments and instructions!
 
 
 
+
+
+
 👤 **Phelelani Ndlovu**
 
 - GitHub: [@githubhandle](https://github.com/techmoves)
@@ -121,6 +117,23 @@ After you're finished please remove all the comments and instructions!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+<!-- Features -->
+
+### Feature
+
+### Key Features <a name="key-features"></a>
+
+
+
+- **adding Responsive**
+- **adding animations**
+- **adding validation**
 
 <!-- CONTRIBUTING -->
 
